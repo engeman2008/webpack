@@ -1,0 +1,23 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "webpack learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engeman2008/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engeman2008/webpack/issues"
+  },
+  "homepage": "https://github.com/engeman2008/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
